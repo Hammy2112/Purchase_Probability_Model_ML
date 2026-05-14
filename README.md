@@ -11,7 +11,7 @@ To solve this, the problem was strategically reframed from a quantitative regres
 ## 🗄️ Dataset & Confidentiality Notice
 
 * **Confidentiality Notice:** Due to Non-Disclosure Agreements (NDA), the raw Shopify transactional data used in this analysis cannot be shared publicly in this repository.
-* **Results Report:** In lieu of the raw dataset, a comprehensive Word document (`Retail Demand Forecasting Report(Playringo).docx`) has been included. This report details the full methodology, feature engineering processes, model evaluation metrics, and final business results.
+* **Results Report:** In lieu of the raw dataset, a comprehensive Word document (`Retail Demand Forecasting Report(Play Ringo).docx`) has been included. This report details the full methodology, feature engineering processes, model evaluation metrics, and final business results.
 * **Data Context:** The original dataset consisted of a Shopify Orders CSV Export containing over 10,000 real transaction records and an 80-column schema (customer identifiers, billing regions, pricing, and order financials).
 
 ## 🛠️ Data Processing & Feature Engineering
@@ -69,5 +69,5 @@ Because the raw data is restricted under NDA, you can review the technical appro
 git clone https://github.com/Hammy2112/Purchase_Probability_Model_ML.git
 
 ```
-2. Open `Retail Demand Forecasting Report(Playringo).docx` to view the complete analytical breakdown, sensitivity analysis charts, and confusion matrices.
+2. Open `Retail Demand Forecasting Report(Play Ringo).docx` to view the complete analytical breakdown, sensitivity analysis charts, and confusion matrices.
 3. Review the provided Jupyter Notebooks to examine the Python code, modeling pipeline, and feature engineering logic used to achieve these results.
